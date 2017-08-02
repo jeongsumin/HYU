@@ -1,2 +1,0 @@
-ALL_PACKAGES += RPCUpgrade/MuonPerformance
-subdirs_src_RPCUpgrade_MuonPerformance := src_RPCUpgrade_MuonPerformance_plugins src_RPCUpgrade_MuonPerformance_test

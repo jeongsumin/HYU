@@ -1,2 +1,0 @@
-01:/bin/rm -f biglib/slc6_amd64_gcc530/Simulation.edmplugin biglib/slc6_amd64_gcc530/pluginSimulation.so
-90:edmPluginRefresh biglib/slc6_amd64_gcc530

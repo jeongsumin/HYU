@@ -1,2 +1,0 @@
-01:/bin/rm -f lib/slc6_amd64_gcc530/pluginUpgradeRPCMuonPerformance_plugins.so lib/slc6_amd64_gcc530/UpgradeRPCMuonPerformance_plugins.edmplugin
-90:edmPluginRefresh lib/slc6_amd64_gcc530
