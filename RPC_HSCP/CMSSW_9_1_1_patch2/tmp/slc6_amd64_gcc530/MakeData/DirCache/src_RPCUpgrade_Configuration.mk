@@ -1,0 +1,2 @@
+ALL_PACKAGES += RPCUpgrade/Configuration
+subdirs_src_RPCUpgrade_Configuration := src_RPCUpgrade_Configuration_test src_RPCUpgrade_Configuration_python

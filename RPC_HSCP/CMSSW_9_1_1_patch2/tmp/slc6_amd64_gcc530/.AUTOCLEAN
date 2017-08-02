@@ -1,0 +1,12 @@
+
+/bin/rm -f lib/slc6_amd64_gcc530/pluginRPCHSCPHSCPDIGISAuto.so lib/slc6_amd64_gcc530/RPCHSCPHSCPDIGISAuto.edmplugin
+/bin/rm -f lib/slc6_amd64_gcc530/pluginRPCHSCPHSCPRecHitsAuto.so lib/slc6_amd64_gcc530/RPCHSCPHSCPRecHitsAuto.edmplugin
+/bin/rm -f lib/slc6_amd64_gcc530/pluginRPCHSCPHSCPSIMHitsAuto.so lib/slc6_amd64_gcc530/RPCHSCPHSCPSIMHitsAuto.edmplugin
+/bin/rm -f lib/slc6_amd64_gcc530/pluginRPCHSCPHSCPTriggerAuto.so lib/slc6_amd64_gcc530/RPCHSCPHSCPTriggerAuto.edmplugin
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/RPCHSCP/HSCPDIGIS
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/RPCHSCP/HSCPRecHits
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/RPCHSCP/HSCPSIMHits
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/RPCHSCP/HSCPTrigger
+/bin/rm -rf tmp/slc6_amd64_gcc530/edmplugins/poison/RPCHSCP/muSimHits
+/bin/touch tmp/common/cache/packs/changed
+edmPluginRefresh lib/slc6_amd64_gcc530

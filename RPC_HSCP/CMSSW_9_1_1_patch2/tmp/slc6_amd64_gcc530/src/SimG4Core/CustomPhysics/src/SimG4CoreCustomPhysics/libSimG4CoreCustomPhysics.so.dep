@@ -1,0 +1,99 @@
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/CustomPDGParser.o: \
+ src/SimG4Core/CustomPhysics/src/CustomPDGParser.cc \
+ src/SimG4Core/CustomPhysics/interface/CustomPDGParser.h
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/CMSDarkPairProductionProcess.o: \
+ src/SimG4Core/CustomPhysics/src/CMSDarkPairProductionProcess.cc \
+ src/SimG4Core/CustomPhysics/interface/CMSDarkPairProductionProcess.hh \
+ src/SimG4Core/CustomPhysics/interface/CMSDarkPairProduction.hh \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/CustomPhysicsListSS.o: \
+ src/SimG4Core/CustomPhysics/src/CustomPhysicsListSS.cc \
+ src/SimG4Core/CustomPhysics/interface/CustomPhysicsListSS.h \
+ src/SimG4Core/CustomPhysics/interface/HadronicProcessHelper.hh \
+ src/SimG4Core/CustomPhysics/interface/CustomParticleFactory.h \
+ src/SimG4Core/CustomPhysics/interface/CustomParticle.h \
+ src/SimG4Core/CustomPhysics/interface/DummyChargeFlipProcess.h \
+ src/SimG4Core/CustomPhysics/interface/G4ProcessHelper.hh \
+ src/SimG4Core/CustomPhysics/interface/CustomPDGParser.h \
+ src/SimG4Core/CustomPhysics/interface/FullModelHadronicProcess.hh \
+ src/SimG4Core/CustomPhysics/interface/FullModelReactionDynamics.hh \
+ src/SimG4Core/CustomPhysics/interface/ToyModelHadronicProcess.hh
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/G4ProcessHelper.o: \
+ src/SimG4Core/CustomPhysics/src/G4ProcessHelper.cc \
+ src/SimG4Core/CustomPhysics/interface/G4ProcessHelper.hh \
+ src/SimG4Core/CustomPhysics/interface/CustomPDGParser.h \
+ src/SimG4Core/CustomPhysics/interface/CustomParticle.h \
+ src/SimG4Core/CustomPhysics/interface/CustomParticleFactory.h
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/CustomParticleFactory.o: \
+ src/SimG4Core/CustomPhysics/src/CustomParticleFactory.cc \
+ src/SimG4Core/CustomPhysics/interface/CustomPDGParser.h \
+ src/SimG4Core/CustomPhysics/interface/CustomParticle.h \
+ src/SimG4Core/CustomPhysics/interface/CustomParticleFactory.h \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/DummyChargeFlipProcess.o: \
+ src/SimG4Core/CustomPhysics/src/DummyChargeFlipProcess.cc \
+ src/SimG4Core/CustomPhysics/interface/DummyChargeFlipProcess.h \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/FullModelHadronicProcess.o: \
+ src/SimG4Core/CustomPhysics/src/FullModelHadronicProcess.cc \
+ src/SimG4Core/CustomPhysics/interface/FullModelHadronicProcess.hh \
+ src/SimG4Core/CustomPhysics/interface/FullModelReactionDynamics.hh \
+ src/SimG4Core/CustomPhysics/interface/G4ProcessHelper.hh \
+ src/SimG4Core/CustomPhysics/interface/Decay3Body.h \
+ src/SimG4Core/CustomPhysics/interface/CustomPDGParser.h \
+ src/SimG4Core/CustomPhysics/interface/CustomParticle.h
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/CMSDarkPairProduction.o: \
+ src/SimG4Core/CustomPhysics/src/CMSDarkPairProduction.cc \
+ src/SimG4Core/CustomPhysics/interface/CMSDarkPairProduction.hh \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/CustomPhysicsList.o: \
+ src/SimG4Core/CustomPhysics/src/CustomPhysicsList.cc \
+ src/SimG4Core/CustomPhysics/interface/CustomPhysicsList.h \
+ src/SimG4Core/CustomPhysics/interface/HadronicProcessHelper.hh \
+ src/SimG4Core/CustomPhysics/interface/CustomParticleFactory.h \
+ src/SimG4Core/CustomPhysics/interface/CustomParticle.h \
+ src/SimG4Core/CustomPhysics/interface/DummyChargeFlipProcess.h \
+ src/SimG4Core/CustomPhysics/interface/G4ProcessHelper.hh \
+ src/SimG4Core/CustomPhysics/interface/CustomPDGParser.h \
+ src/SimG4Core/CustomPhysics/interface/FullModelHadronicProcess.hh \
+ src/SimG4Core/CustomPhysics/interface/FullModelReactionDynamics.hh \
+ src/SimG4Core/CustomPhysics/interface/ToyModelHadronicProcess.hh \
+ src/SimG4Core/CustomPhysics/interface/CMSDarkPairProductionProcess.hh \
+ src/SimG4Core/CustomPhysics/interface/CMSDarkPairProduction.hh \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/FullModelReactionDynamics.o: \
+ src/SimG4Core/CustomPhysics/src/FullModelReactionDynamics.cc \
+ src/SimG4Core/CustomPhysics/interface/FullModelReactionDynamics.hh \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/HadronicProcessHelper.o: \
+ src/SimG4Core/CustomPhysics/src/HadronicProcessHelper.cc \
+ src/SimG4Core/CustomPhysics/interface/CustomPDGParser.h \
+ src/SimG4Core/CustomPhysics/interface/HadronicProcessHelper.hh \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/CustomParticle.o: \
+ src/SimG4Core/CustomPhysics/src/CustomParticle.cc \
+ src/SimG4Core/CustomPhysics/interface/CustomParticle.h \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/CustomPhysics.o: \
+ src/SimG4Core/CustomPhysics/src/CustomPhysics.cc \
+ src/SimG4Core/CustomPhysics/interface/CustomPhysics.h \
+ src/SimG4Core/CustomPhysics/interface/CustomPhysicsList.h \
+ src/SimG4Core/CustomPhysics/interface/HadronicProcessHelper.hh \
+ src/SimG4Core/CustomPhysics/interface/CustomPhysicsListSS.h \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/ToyModelHadronicProcess.o: \
+ src/SimG4Core/CustomPhysics/src/ToyModelHadronicProcess.cc \
+ src/SimG4Core/CustomPhysics/interface/ToyModelHadronicProcess.hh \
+ src/SimG4Core/CustomPhysics/interface/CustomPDGParser.h \
+ src/SimG4Core/CustomPhysics/interface/CustomParticle.h \
+ src/SimG4Core/CustomPhysics/interface/HadronicProcessHelper.hh \
+ src/SimG4Core/CustomPhysics/interface/Decay3Body.h \
+
+tmp/slc6_amd64_gcc530/src/SimG4Core/CustomPhysics/src/SimG4CoreCustomPhysics/Decay3Body.o: \
+ src/SimG4Core/CustomPhysics/src/Decay3Body.cc \
+ src/SimG4Core/CustomPhysics/interface/Decay3Body.h \
+
